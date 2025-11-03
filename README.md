@@ -1,1 +1,3 @@
-I made this tool to convert EUCWorld logs to be used in EUCTelemetry (https://euctelemetry.app/), because it only supports WheelLog(https://github.com/Wheellog/Wheellog.Android) and DarknessBot log files.
+I made this tool to convert [EUC World](https://euc.world/) logs to be used in [EUCTelemetry](https://euctelemetry.app/), because it only supports [WheelLog](https://github.com/Wheellog/Wheellog.Android) and [DarknessBot](https://play.google.com/store/apps/details?id=com.darknessproduction.darknessbot&hl=en&pli=1) log files.
+
+To run, execute main.py and specify the source (EUC World) csv file and the destination ( /exampledirectory/outputFileName.csv )
