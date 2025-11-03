@@ -1,0 +1,1 @@
+I made this tool to convert EUCWorld logs to be used in EUCTelemetry (https://euctelemetry.app/), because it only supports WheelLog(https://github.com/Wheellog/Wheellog.Android) and DarknessBot log files.
