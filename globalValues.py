@@ -1,0 +1,2 @@
+WheelLogColumns = ["date","time","latitude","longitude","gps_speed","gps_alt","gps_heading","gps_distance","speed","voltage","phase_current","current","power","torque","pwm","battery_level","distance","totaldistance","system_temp","temp2","tilt","roll","mode","alert"]
+EUCWorldEquivalentColumns = ["datetime", "datetime", "gps_lat", "gps_lon", "gps_speed", "gps_alt", "gps_bearing", "gps_distance", "speed", "voltage", "current_phase", "current", "power", "", "safety_margin", "battery", "distance", "distance_total", "temp", "temp_batt", "tilt", "roll"]
